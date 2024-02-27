@@ -4,7 +4,8 @@ y- 👋 Hi, I’m @BigGANd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fa
+
+
 - ![JeanFrancoisCopeGIF](https://github.com/BigGANd/BigGANd/assets/161469911/ef06ea1e-04fc-422e-af06-6558ac9da47f)
 
 
